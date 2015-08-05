@@ -1,0 +1,19 @@
+{
+  "author": "yuki akiyama",
+  "name": "promise-util-mysql",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "mysql" : "",
+    "bluebird" : ""
+  },
+  "readmeFilename": "README.md",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": ""
+  },
+  "license": "MIT"
+}
